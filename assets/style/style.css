@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #60ab9a;
+}
+
+.image {
+  display: flex;
+  justify-content: center;
+  margin: 50px 50px 50px 0;
+  padding: 50px 50px 50px 0;
+}
+
+.stickers {
+  display: flex;
+  text-align: center;
+  margin: 50px;
+  padding: 50px;
+}
+
+.boton.stickers {
+  display: flex;
+}
+
+.password {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  justify-content: space-around;
+  margin: 50px;
+  padding: 50px 50px 50px 150px;
+}
+
+p {
+  font-size: 50px;
+  background-color: white;
+  text-align: center;
+}
